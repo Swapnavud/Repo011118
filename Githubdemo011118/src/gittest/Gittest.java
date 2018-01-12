@@ -7,6 +7,7 @@ public class Gittest {
 
 		System.out.println("This is sample test1");
 		System.out.println("This is sample test2");
+		System.out.println("This is sample test2");
 	}
 
 }
